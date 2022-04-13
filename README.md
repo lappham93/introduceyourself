@@ -43,4 +43,10 @@
 ## Misaki Nakayama
 - DoB: 1999/03/06
 - Email: misaki.nakayama@g.pascalia.co.jp
-- Hobbies: Listening music 
+- Hobbies: Listening music
+
+## Rina Miyakawa
+- DoB: November 15, 1998
+- Email: rina.miyakawa@g.pascalia.co.jp
+- Hobbies: Watching dramas or movies
+
