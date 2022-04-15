@@ -49,3 +49,8 @@
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
+
+##Hijun.Kin
+- Dob: November 20, 1999
+- Email: hijun.kin@g.pascalia.co.jp
+- Hobbies: Workout
