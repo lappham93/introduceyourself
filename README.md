@@ -43,4 +43,9 @@
 ## Misaki Nakayama
 - DoB: 1999/03/06
 - Email: misaki.nakayama@g.pascalia.co.jp
-- Hobbies: Listening music 
+- Hobbies: Listening music
+
+## Yuho Suzuki
+- DoB: May 3, 2000
+- Email: yuho.suzuki@g.pascalia.co.jp
+- Hpbbies: Playing games
