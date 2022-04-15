@@ -48,4 +48,4 @@
 ## Yuho Suzuki
 - DoB: May 3, 2000
 - Email: yuho.suzuki@g.pascalia.co.jp
-- Hpbbies: Playing games
+- Hobbies: Playing video games
