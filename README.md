@@ -50,3 +50,7 @@
 - Email: rina.miyakawa@g.pascalia.co.jp
 - Hobbies: Watching dramas or movies
 
+## Pham Van Lap
+- DoB: 1993/04/20
+- Email: lappv@pascaliaasia.com
+- Hobbies: Football
