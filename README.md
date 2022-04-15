@@ -46,6 +46,6 @@
 - Hobbies: Listening music
 
 ## Yuho Suzuki
-- DoB: May 3, 2000
+- DoB: 2000/03/03
 - Email: yuho.suzuki@g.pascalia.co.jp
 - Hobbies: Playing video games
