@@ -40,12 +40,12 @@
 - Email: yuki.takatori@g.pascalia.co.jp
 - Hobbies: Tennis
 
-## Misaki Nakayama
-- DoB: 1999/03/06
-- Email: misaki.nakayama@g.pascalia.co.jp
-- Hobbies: Listening music 
-
 ## Pham Van Lap
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
+
+## Misaki Nakayama
+- DoB: 1999/03/06
+- Email: misaki.nakayama@g.pascalia.co.jp
+- Hobbies: Listening music 
