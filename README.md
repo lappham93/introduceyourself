@@ -45,12 +45,17 @@
 - Email: misaki.nakayama@g.pascalia.co.jp
 - Hobbies: Listening music
 
+## Yuho Suzuki
+- DoB: 2000/03/03
+- Email: yuho.suzuki@g.pascalia.co.jp
+- Hobbies: video games
+
 ## Pham Van Lap
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
 
-##Hijun.Kin
+## Hijun.Kin
 - Dob: November 20, 1999
 - Email: hijun.kin@g.pascalia.co.jp
 - Hobbies: Workout
