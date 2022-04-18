@@ -43,7 +43,12 @@
 ## Misaki Nakayama
 - DoB: 1999/03/06
 - Email: misaki.nakayama@g.pascalia.co.jp
-- Hobbies: Listening music 
+- Hobbies: Listening music
+
+## Yuho Suzuki
+- DoB: 2000/03/03
+- Email: yuho.suzuki@g.pascalia.co.jp
+- Hobbies: video games
 
 ## Pham Van Lap
 - DoB: 1993/04/20
@@ -59,3 +64,9 @@
 - DoB: 1999/7/30
 -Email: abcd@d.pas.co.jp
 -Hobbies: Reading books
+
+## Rina Miyakawa
+- DoB: November 15, 1998
+- Email: rina.miyakawa@g.pascalia.co.jp
+- Hobbies: Watching dramas or movies
+
