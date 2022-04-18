@@ -54,3 +54,8 @@
 - DoB: 1999/11/20
 -Email: hijun.kin@g.pascalia.co.jp
 -Hobbies: Workout
+
+## Yutaro Inoue
+- DoB: 1999/7/30
+-Email: abcd@d.pas.co.jp
+-Hobbies: Reading books
