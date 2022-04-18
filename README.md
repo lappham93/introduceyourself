@@ -50,6 +50,11 @@
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
 
+##Hijun.Kin
+- Dob: November 20, 1999
+- Email: hijun.kin@g.pascalia.co.jp
+- Hobbies: Workout
+
 ## Rina Miyakawa
 - DoB: November 15, 1998
 - Email: rina.miyakawa@g.pascalia.co.jp
