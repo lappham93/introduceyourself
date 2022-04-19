@@ -45,7 +45,7 @@
 - Email: misaki.nakayama@g.pascalia.co.jp
 - Hobbies: Listening music
 
-## Yuho Suzuki
+## Yuho Suzuki (new member)
 - DoB: 2000/03/03
 - Email: yuho.suzuki@g.pascalia.co.jp
 - Hobbies: video games
@@ -55,12 +55,12 @@
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
 
-## Hijun.Kin
+## Hijun.Kin (new member)
 - Dob: November 20, 1999
 - Email: hijun.kin@g.pascalia.co.jp
 - Hobbies: Workout
 
-## Rina Miyakawa
+## Rina Miyakawa (new member)
 - DoB: November 15, 1998
 - Email: rina.miyakawa@g.pascalia.co.jp
 - Hobbies: Watching dramas or movies
