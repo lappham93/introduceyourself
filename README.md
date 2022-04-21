@@ -55,12 +55,18 @@
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
 
-## Hijun.Kin (new member)
-- Dob: November 20, 1999
-- Email: hijun.kin@g.pascalia.co.jp
-- Hobbies: Workout
+## Hijun Kin
+- DoB: 1999/11/20
+-Email: hijun.kin@g.pascalia.co.jp
+-Hobbies: Workout
+
+## Yutaro Inoue
+- DoB: 1999/7/30
+-Email: abcd@d.pas.co.jp
+-Hobbies: Reading books
 
 ## Rina Miyakawa (new member)
 - DoB: November 15, 1998
 - Email: rina.miyakawa@g.pascalia.co.jp
 - Hobbies: Watching dramas or movies
+
