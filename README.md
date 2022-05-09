@@ -70,3 +70,7 @@
 - Email: rina.miyakawa@g.pascalia.co.jp
 - Hobbies: Watching dramas or movies
 
+## Truong Quang Khanh
+- DoB : 1992/09/02
+- Email : khanhtq@pascaliaasia.com
+- Hobbies : drink coffee
