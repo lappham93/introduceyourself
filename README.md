@@ -50,11 +50,6 @@
 - Email: yuho.suzuki@g.pascalia.co.jp
 - Hobbies: video games
 
-## Pham Van Lap
-- DoB: 1993/04/20
-- Email: lappv@pascaliaasia.com
-- Hobbies: Football
-
 ## Hijun Kin
 - DoB: 1999/11/20
 -Email: hijun.kin@g.pascalia.co.jp
@@ -74,3 +69,9 @@
 - DoB : 1992/09/02
 - Email : khanhtq@pascaliaasia.com
 - Hobbies : drink coffee
+
+## Pham Van Lap
+- DoB: 1993/04/20
+- Email: lappv@pascaliaasia.com
+- Hobbies: Football
+
