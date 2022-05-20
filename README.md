@@ -75,3 +75,8 @@
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
 
+## Le Xuan Hoang Buu
+- DoB: 1999/10/15
+- Email: buulhx@pascaliaasia.com
+- Hobbies: Football, Play game
+
