@@ -80,3 +80,7 @@
 - Email: anv@pascaliaasia.com
 - Hobbies: Music
 
+## Le Xuan Hoang Buu
+- DoB: 1999/10/15
+- Email: buulhx@pascaliaasia.com
+- Hobbies: Footbal, Play game
