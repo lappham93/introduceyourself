@@ -74,3 +74,14 @@
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
+
+## Nguyen Van A
+- DoB: 1993/04/21
+- Email: anv@pascaliaasia.com
+- Hobbies: Music
+
+## CHANTANA Soulivone
+- DoB: 2000/06/01
+- Email: soulivone@pascaliaasia.com
+- Hobbies: Football
+
