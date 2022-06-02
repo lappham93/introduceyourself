@@ -74,9 +74,3 @@
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
-
-## Nguyen Van A
-- DoB: 1993/04/21
-- Email: anv@pascaliaasia.com
-- Hobbies: Music
-
