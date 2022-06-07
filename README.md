@@ -74,3 +74,8 @@
 - DoB: 1993/04/20
 - Email: lappv@pascaliaasia.com
 - Hobbies: Football
+
+## Inthavongsa Khampheang
+- DoB: 1999/05/25
+- Email: khampheng@pascaliaasia.com
+- Hobbies: badminton
